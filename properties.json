@@ -1,5 +1,5 @@
 {
-  "ameliaUrl": "https://logistics.demo.amelia.com/Amelia/ui/echo/?domain=logistics",
-  "chatUrl": "https://logistics.demo.amelia.com/Amelia/ui/echo/?domain=logistics",
+  "ameliaUrl": "https://logistics.demo.amelia.com/Amelia/ui/echo/chat?domain=logistics",
+  "chatUrl": "https://logistics.demo.amelia.com/Amelia/ui/echo/chat?domain=logistics",
   "clientUrl": "https://www.echo.com/"
 }
